@@ -28,7 +28,7 @@ My core philosophy right now is to **Learn by Doing**. I don't wait until I know
 
 ## Get in Touch
 If you're interested in technology, design, or have a cool idea you'd like to bounce around, feel free to reach out to me!
-- **Email:** hello@hrushi.dev
+- **Email:** hrushikesh.26bcs10403@sst.scaler.com
 
 ---
 *Learning. Building. Figuring it out.*
